@@ -1,7 +1,7 @@
 # py-projectile-motion
 
 
-Plotting the 2D trajectory of a projectile as a function of initial velocity and angle(air resistance neglecled) using matplotlib.
+Plotting the 2D trajectory of a projectile as a function of initial velocity and angle(air resistance neglected) using matplotlib.
 
 For init_velocity 60m/s and angle 30 degrees:
 
