@@ -23,7 +23,7 @@ def projectile_motion(initial_velocity, angle):
     r_max = ((u ** 2) * (np.sin(2 * theta))) / g
 
     plt.plot(x, y)
-    plt.title('Trajectory of a Projectile')
+    plt.title('Trajectory of the Projectile')
     plt.xlabel('Horizontal Distance --->')
     plt.ylabel('Vertical Distance --->')
     plt.xlim([0, r_max + (r_max*0.2)])
